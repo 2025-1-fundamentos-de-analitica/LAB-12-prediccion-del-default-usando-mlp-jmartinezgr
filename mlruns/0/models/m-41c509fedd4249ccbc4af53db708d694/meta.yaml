@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/Lenovo/Desktop/Universidad/FundamentosAnalitica/LAB-12-prediccion-del-default-usando-mlp-jmartinezgr/mlruns/0/models/m-41c509fedd4249ccbc4af53db708d694/artifacts
+creation_timestamp: 1752634052675
+experiment_id: '0'
+last_updated_timestamp: 1752634060886
+model_id: m-41c509fedd4249ccbc4af53db708d694
+model_type: null
+name: model
+source_run_id: 545c0626f7924b0783ef73c74680861c
+status: 2
+status_message: null
